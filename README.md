@@ -12,3 +12,7 @@ We meet every Wednesday from 12:00 to 13:00 in the meeting room Bregne (6th floo
 
 - [Week 1](week1.md)
 - [Week 2](week2.md)
+
+## Other
+
+- [ 27 Unhelpful Facts About Category Theory (YouTube)](https://www.youtube.com/watch?v=H0Ek86IH-3Y)
